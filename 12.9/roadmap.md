@@ -19,7 +19,7 @@ Hey everyone, we are addressing a few things that will be changing below and wil
 
 
 # Avoidance of bugs.
-- This update will clean us out of any bugs possible and will avoid some downtime.
+- This update will clean us out of any bugs possible and will avoid some downtime. _Subject to change._
 
 
 
